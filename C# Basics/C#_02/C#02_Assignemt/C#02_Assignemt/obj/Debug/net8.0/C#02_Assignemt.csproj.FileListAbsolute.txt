@@ -1,0 +1,14 @@
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\bin\Debug\net8.0\C#02_Assignemt.exe
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\bin\Debug\net8.0\C#02_Assignemt.deps.json
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\bin\Debug\net8.0\C#02_Assignemt.runtimeconfig.json
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\bin\Debug\net8.0\C#02_Assignemt.dll
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\bin\Debug\net8.0\C#02_Assignemt.pdb
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.AssemblyInfoInputs.cache
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.AssemblyInfo.cs
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.csproj.CoreCompileInputs.cache
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.dll
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\refint\C#02_Assignemt.dll
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.pdb
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\C#02_Assignemt.genruntimeconfig.cache
+D:\Route\C# Basics\Session 02\Assignment\C#02_Assignemt\C#02_Assignemt\obj\Debug\net8.0\ref\C#02_Assignemt.dll

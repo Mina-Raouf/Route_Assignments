@@ -1,0 +1,15 @@
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\bin\Debug\net8.0\DEMO.exe
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\bin\Debug\net8.0\DEMO.deps.json
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\bin\Debug\net8.0\DEMO.runtimeconfig.json
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\bin\Debug\net8.0\DEMO.dll
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\bin\Debug\net8.0\DEMO.pdb
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.AssemblyInfoInputs.cache
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.AssemblyInfo.cs
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.csproj.CoreCompileInputs.cache
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.sourcelink.json
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.dll
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\refint\DEMO.dll
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.pdb
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\DEMO.genruntimeconfig.cache
+D:\Route\Route_Assignments\OOP\OOP04\DEMO\DEMO\obj\Debug\net8.0\ref\DEMO.dll
